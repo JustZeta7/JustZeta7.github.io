@@ -62,6 +62,10 @@
   color: grey;
 }
 
+.instagram{
+  color: #8a3ab9;
+}
+
 .icon-btn:hover {
   transform: scale(1.10);
   color: #FFFFFF;
