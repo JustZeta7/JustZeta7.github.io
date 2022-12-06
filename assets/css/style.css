@@ -63,7 +63,7 @@
 }
 
 .instagram {
-  color: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  color: #fd5949;
 }
 
 .icon-btn:hover {
@@ -84,7 +84,7 @@
 }
 
 .instagram:hover{
-  background-color: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  background-color: #d6249f;
 }
 
 /* Buttons - Read Me, Contact Us */
