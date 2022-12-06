@@ -62,8 +62,8 @@
   color: grey;
 }
 
-.instag {
-  color: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);;
+.instagram {
+  color: #d6249f;
 }
 
 .icon-btn:hover {
@@ -83,8 +83,8 @@
   background-color: black;
 }
 
-.instag:hover {
-  background-color: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+.instagram:hover {
+  background-color: #fd5949;
 }
 
 /* Buttons - Read Me, Contact Us */
