@@ -18,7 +18,7 @@
   </kbd>
 </p>
 
-:star: Star JustZeta7 on GitHub — it helps!
+:star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
